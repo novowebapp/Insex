@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Insex</string>
+    <string name="action_settings">Configurações</string>
+    <string name="email">Email</string>
+    <string name="password">Senha</string>
+    <string name="apelido">Apelido</string>
+    <string name="login">Login</string>
+    <string name="login_register">Não tem conta? Registre-se !</string>
+    <string name="register">Registro</string>
+
+    <string name="user_successfully_added">Usuário adicionado!</string>
+    <string name="user_unable_to_add">Não foi possivel adicionar usuário!</string>
+    <string name="adding_user_to_db">Adicionando usuário ao banco de dados.</string>
+    <string name="loading">Abrindo</string>
+    <string name="please_wait">Por favor aguarde...</string>
+
+    <string name="font_family_roboto_light">sans-serif-thin</string>
+    <string name="type_a_message">Envie uma mensagem...</string>
+    <string name="action_logout">Logout</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="logout">Logout</string>
+    <string name="are_you_sure">Voce tem certeza?</string>
+    <string name="cancel">Cancelar</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
